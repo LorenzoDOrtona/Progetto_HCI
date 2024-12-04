@@ -8095,6 +8095,10 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: #6c757d !important;
 }
+.ciao{
+  --bs-text-opacity: 1;
+  color: #78B7FF !important;
+}
 
 .text-black-50 {
   --bs-text-opacity: 1;
