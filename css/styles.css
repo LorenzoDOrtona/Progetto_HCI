@@ -8098,6 +8098,17 @@ textarea.form-control-lg {
 .ciao{
   --bs-text-opacity: 1;
   color: #78B7FF !important;
+  text-decoration: none;
+}
+.ciao:hover{
+  --bs-text-opacity: 1;
+  color: #469bfc !important;
+  text-decoration: none;
+}
+.ciao:active{
+  --bs-text-opacity: 1;
+  color: #2588f9 !important;
+  text-decoration: none;
 }
 
 .text-black-50 {
