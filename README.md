@@ -1,6 +1,6 @@
 # ZoneFlow
 
-ZoneFlow is a prototype designed to help students discover and access public study spaces in their city, both individually and as a group. Developed as a Human–Computer Interaction (HCI) course project by a team of seven, ZoneFlow aims to reduce overcrowding in libraries and study rooms by offering smart search, filtering, and scheduling features.
+ZoneFlow is a service designed to help students discover and access public study spaces in their city, both individually and as a group. Developed as a Human–Computer Interaction (HCI) course project by a team of seven, ZoneFlow aims to reduce overcrowding in libraries and study rooms by offering smart search, filtering, and scheduling features.
 
 ## Table of Contents
 
