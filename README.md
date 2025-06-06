@@ -1,13 +1,12 @@
 # ZoneFlow
 
-ZoneFlow is a web prototype designed to help students discover and access public study spaces in their city, both individually and as a group. Developed as a Human–Computer Interaction (HCI) course project by a team of seven, ZoneFlow aims to reduce overcrowding in libraries and study rooms by offering smart search, filtering, and scheduling features.
+ZoneFlow is a prototype designed to help students discover and access public study spaces in their city, both individually and as a group. Developed as a Human–Computer Interaction (HCI) course project by a team of seven, ZoneFlow aims to reduce overcrowding in libraries and study rooms by offering smart search, filtering, and scheduling features.
 
 ## Table of Contents
 
 * [Description](#description)
 * [Features](#features)
 * [Prototype](#prototype)
-* [Getting Started](#getting-started)
 * [Project Structure](#project-structure)
 * [Documentation](#documentation)
 * [Screenshots](#screenshots)
@@ -38,31 +37,6 @@ Built with a responsive front-end prototype (HTML, CSS, Bootstrap, and JavaScrip
 
 Interactive high-fidelity prototype (Figma):
 [ZoneFlow Prototype](https://www.figma.com/design/G4G4y2kwpZ3Rn74cqsDzF3/PDL-Labs---ZoneFlow?node-id=0-1&t=1PV1uTBZYQXGdcD8-1)
-
-## Getting Started
-
-### Prerequisites
-
-To view the ZoneFlow prototype locally, you only need a modern web browser (e.g., Chrome, Firefox, Safari).
-
-### Running the Prototype
-
-1. **Download or clone** this repository:
-
-   ```bash
-   git clone https://github.com/your-organization/ZoneFlow-HCI.git
-   ```
-2. **Navigate** to the project directory:
-
-   ```bash
-   cd ZoneFlow-HCI
-   ```
-3. **Open** `index.html` in your browser:
-
-   * Double-click `index.html`, or
-   * Right-click and select “Open With” → your preferred browser.
-
-No server setup or build steps are required, as this is a static front-end prototype.
 
 ## Project Structure
 
