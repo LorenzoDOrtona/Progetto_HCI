@@ -23,7 +23,7 @@ ZoneFlow provides a centralized library of public study places (e.g., libraries,
 * Schedule group study sessions by sharing availability with teammates.
 * Receive notifications about space availability and schedule updates.
 
-Built with a responsive front-end prototype (HTML, CSS, Bootstrap, and JavaScript), ZoneFlow demonstrates a complete HCI design process: context analysis, need-finding interviews, personas, conceptual design, wireframing, low- and high-fidelity prototyping, heuristic evaluation, usability testing, and iterative refinement.
+Built with a responsive front-end prototype (HTML, CSS and JavaScript), ZoneFlow demonstrates a complete HCI design process: context analysis, need-finding interviews, personas, conceptual design, wireframing, low- and high-fidelity prototyping, heuristic evaluation, usability testing, and iterative refinement.
 
 ## Features
 
