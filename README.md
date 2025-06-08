@@ -65,7 +65,7 @@ ZoneFlow-HCI/
 │   └── styles.css
 ├── js/                    # JavaScript scripts
 │   └── scripts.js
-├── images/                # Images & UI mockups
+├── images/                # Images
 │   ├── brainstorming.png
 │   ├── midfidelity.png
 │   ├── prototipofinale.png
